@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  S3DTouch
+
+  Created by Swayam Infotech on 28/09/20.
+  Copyright © 2020 Swayam Infotech. All rights reserved.
+*/
+
+"name"                                  = "S3DTouch";
+"ok_text"                               = "OK";
+"3d_touch"                              = "3d Touch";
+"welcome"                               = "Welcome";
+
+//For Shortcut
+"open_link"                             = "Open Link";
+"message_compose"                       = "Message Compose";
+"call_us"                               = "Call Us";
+"open_second_screen"                    = "Open Second Screen";
+
